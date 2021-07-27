@@ -1,56 +1,28 @@
 [{
         "id": 1,
-        "autor": "Nombre XXXXX",
-        "titulo": "Es un título de la página",
-        "srcimg": "https://picsum.photos/1024/480?random=1/",
-        "alt": "Texto alternativo de la imágen",
-        "texto": "Instrucciones: Aquí has de poner un texto descriptivo del proyecto. La imágen de cabecera debe tener una resolución de (1024/480 px)",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Laura Baena Chamizo",
+        "titulo": "Animal Crossing New Horizons Guide",
+        "srcimg": "https://github.com/LauraBaena-dev/practicafinal/blob/main/img/ImgMostra.jpeg",
+        "alt": "Animal Crossing New Horizons image",
+        "texto": "Petita landing que mostra una mica del contingut de Animal Crossing New Horizons",
+        "url": "https://laurabaena-dev.github.io/practicafinal/"
     },
     {
         "id": 2,
-        "autor": "Nombre alumno",
-        "titulo": "Título del proyecto",
-        "srcimg": "https://picsum.photos/1024/480?random=2/",
-        "alt": "Descripción de la imágen",
-        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
-        "url": "http://www.google.com"
+        "autor": "Germán Pérez Bordera",
+        "titulo": "Gestor de tareas",
+        "srcimg": "https://raw.githubusercontent.com/ierman1/practica-curso-vue/main/public/me.jpg",
+        "alt": "Es la cara de un gato boca arriba",
+        "texto": "Gestor de tareas simples",
+        "url": "https://ierman1.github.io/practica-curso-vue/"
     },
     {
         "id": 3,
-        "autor": "Nombre alumno",
-        "titulo": "Título del proyecto",
-        "srcimg": "https://picsum.photos/1024/480?random=3/",
-        "alt": "Descripción de la imágen",
-        "texto": "Aquí has de poner un texto descriptivo del proyecto",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 4,
-        "autor": "Nombre alumno",
-        "titulo": "Título del proyecto",
-        "srcimg": "https://picsum.photos/1024/480?random=4/",
-        "alt": "Descripción de la imágen",
-        "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. ",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 5,
-        "autor": "Nombre alumno",
-        "titulo": "Título del proyecto",
-        "srcimg": "https://picsum.photos/1024/480?random=5/",
-        "alt": "Descripción de la imágen",
-        "texto": "Aquí has de poner un texto descriptivo del proyecto",
-        "url": "http://www.google.com"
-    },
-    {
-        "id": 6,
-        "autor": "Nombre alumno",
-        "titulo": "Título del proyecto",
-        "srcimg": "https://picsum.photos/1024/480?random=6/",
-        "alt": "Descripción de la imágen",
-        "texto": "Aquí has de poner un texto descriptivo del proyecto",
-        "url": "http://www.google.com"
+        "autor": "Joan Sala Farreny",
+        "titulo": "Pàgina web FC Barcelona",
+        "srcimg": "https://github.com/JoaanSala/activitat_exemple_vue/blob/master/src/assets/barcelona_logo.png",
+        "alt": "Imatge de l'escut del Futbol Club Barcelona",
+        "texto": "S'ha realitzat una pàgina web de prova per al primer equip del Futbol Club Barcelona",
+        "url": "https://github.com/JoaanSala/activitat_exemple_vue"
     }
-
 ]
