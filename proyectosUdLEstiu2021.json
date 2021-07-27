@@ -2,7 +2,7 @@
         "id": 1,
         "autor": "Laura Baena Chamizo",
         "titulo": "Animal Crossing New Horizons Guide",
-        "srcimg": "https://github.com/LauraBaena-dev/practicafinal/blob/main/img/ImgMostra.jpeg",
+        "srcimg": "https://raw.githubusercontent.com/LauraBaena-dev/practicafinal/main/img/ImgMostra.jpeg",
         "alt": "Animal Crossing New Horizons image",
         "texto": "Petita landing que mostra una mica del contingut de Animal Crossing New Horizons",
         "url": "https://laurabaena-dev.github.io/practicafinal/"
@@ -20,7 +20,7 @@
         "id": 3,
         "autor": "Joan Sala Farreny",
         "titulo": "Pàgina web FC Barcelona",
-        "srcimg": "https://github.com/JoaanSala/activitat_exemple_vue/blob/master/src/assets/barcelona_logo.png",
+        "srcimg": "https://raw.githubusercontent.com/JoaanSala/activitat_exemple_vue/master/src/assets/barcelona_logo.png",
         "alt": "Imatge de l'escut del Futbol Club Barcelona",
         "texto": "S'ha realitzat una pàgina web de prova per al primer equip del Futbol Club Barcelona",
         "url": "https://github.com/JoaanSala/activitat_exemple_vue"
